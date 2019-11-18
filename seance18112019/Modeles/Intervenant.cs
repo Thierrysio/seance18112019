@@ -8,6 +8,6 @@ namespace seance18112019.Modeles
 {
     class Intervenant
     {
-        private int _id;
+      
     }
 }
